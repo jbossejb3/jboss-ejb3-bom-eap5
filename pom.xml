@@ -19,7 +19,7 @@
   <artifactId>bom-eap5</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <name>JBoss EJB 3.x BOM for EAP 5</name>
-  <description>Bill of Materials for EJB 3.x in JBoss Application Server 6</description>
+  <description>Bill of Materials for EJB 3.0 in JBoss Enterprise Application Platform 5</description>
   <packaging>pom</packaging>
 
   <!-- Properties -->
