@@ -63,15 +63,6 @@
 
   </properties>
 
-  <!-- SCM -->
-  <!--
-  <scm>
-    <connection>scm:svn:http://anonsvn.jboss.org/repos/jbossas/projects/ejb3/components/bom/as6/trunk</connection>
-    <developerConnection>scm:svn:https://svn.jboss.org/repos/jbossas/projects/ejb3/components/bom/as6/trunk</developerConnection>
-    <url>http://anonsvn.jboss.org/repos/jbossas/projects/ejb3/components/bom/as6/trunk</url>
-  </scm>
-  -->
-
   <!-- Issues -->
   <issueManagement>
     <system>jira</system>
@@ -320,5 +311,10 @@
     </dependencies>
   </dependencyManagement>
 
+  <scm>
+    <connection>scm:git:git://github.com/wolfc/jboss-ejb3-bom-eap5.git</connection>
+    <developerConnection>scm:git:git@github.com:wolfc/jboss-ejb3-bom-eap5.git</developerConnection>
+    <url>http://github.com/wolfc/jboss-ejb3-bom-eap5</url>
+  </scm>
 </project>
 
