@@ -312,9 +312,9 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git://github.com/wolfc/jboss-ejb3-bom-eap5.git</connection>
-    <developerConnection>scm:git:git@github.com:wolfc/jboss-ejb3-bom-eap5.git</developerConnection>
-    <url>http://github.com/wolfc/jboss-ejb3-bom-eap5</url>
+    <connection>scm:git:git://github.com/jbossejb3/jboss-ejb3-bom-eap5.git</connection>
+    <developerConnection>scm:git:git@github.com:jbossejb3/jboss-ejb3-bom-eap5.git</developerConnection>
+    <url>http://github.com/jbossejb3/jboss-ejb3-bom-eap5</url>
   </scm>
 </project>
 
