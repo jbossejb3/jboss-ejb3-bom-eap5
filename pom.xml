@@ -47,7 +47,7 @@
     <version.org.jboss.ejb3_jboss.ejb3.metadata.deployers>1.0.0</version.org.jboss.ejb3_jboss.ejb3.metadata.deployers>
     <version.org.jboss.ejb3_jboss.ejb3.metrics.deployer>1.1.0</version.org.jboss.ejb3_jboss.ejb3.metrics.deployer>
     <version.org.jboss.ejb3_jboss.ejb3.proxy.clustered>1.0.3</version.org.jboss.ejb3_jboss.ejb3.proxy.clustered>
-    <version.org.jboss.ejb3_jboss.ejb3.proxy.impl>1.0.6</version.org.jboss.ejb3_jboss.ejb3.proxy.impl>
+    <version.org.jboss.ejb3_jboss.ejb3.proxy.impl>1.0.6.SP1</version.org.jboss.ejb3_jboss.ejb3.proxy.impl>
     <version.org.jboss.ejb3_jboss.ejb3.proxy.spi>1.0.0</version.org.jboss.ejb3_jboss.ejb3.proxy.spi>
     <version.org.jboss.ejb3_jboss.ejb3.security>1.0.2</version.org.jboss.ejb3_jboss.ejb3.security>
     <version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>1.0.4</version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>
