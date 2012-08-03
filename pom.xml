@@ -40,7 +40,7 @@
     <version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>0.1.4</version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api>1.0.0</version.org.jboss.ejb3_jboss.ejb3.ext.api>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>1.0.0</version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>
-    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.0.7</version.org.jboss.ejb3_jboss.ejb3.interceptors>
+    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.0.9</version.org.jboss.ejb3_jboss.ejb3.interceptors>
     <version.org.jboss.ejb3_jboss.ejb3.jpa.int>1.0.0</version.org.jboss.ejb3_jboss.ejb3.jpa.int>
     <version.org.jboss.ejb3_jboss.ejb3.mc.int>1.0.2</version.org.jboss.ejb3_jboss.ejb3.mc.int>
     <version.org.jboss.ejb3_jboss.ejb3.metadata>1.0.0</version.org.jboss.ejb3_jboss.ejb3.metadata>
